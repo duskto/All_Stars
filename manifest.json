@@ -197,5 +197,178 @@
       "zelon88_HRConvert2/112_zelon88_HRConvert2.zip::112_zelon88_HRConvert2/reports/漏洞分析报告_前认证RCE_认证绕过后RCE.md",
       "zelon88_HRConvert2/112_zelon88_HRConvert2/112_zelon88_HRConvert2/HRconvert2.zip::reports/漏洞分析报告_前认证RCE_认证绕过后RCE.md"
     ]
+  },
+  {
+    "project": "kubesphere_kubeeye",
+    "category": "reports",
+    "path": "kubesphere_kubeeye/reports/KubeEye_RCE_漏洞分析报告.md",
+    "sha256": "09cb9d9c962b835790072ee8e0cbfe3bfff5e8a1b21c41aecf79ce36b3d5b742",
+    "bytes": 15883,
+    "sources": [
+      "wsl:Debian:/home/duskto/漏挖复审/908-kubeeye/KubeEye_RCE_漏洞分析报告.md"
+    ]
+  },
+  {
+    "project": "kubesphere_kubeeye",
+    "category": "exp",
+    "path": "kubesphere_kubeeye/exp/poc_rce.py",
+    "sha256": "cda984a54ce3fc996864a67412eba7771ed444ef56ad4ac18f668d93fdf758ea",
+    "bytes": 6060,
+    "sources": [
+      "wsl:Debian:/home/duskto/漏挖复审/908-kubeeye/poc_rce.py"
+    ]
+  },
+  {
+    "project": "unacms_UNA",
+    "category": "exp",
+    "path": "unacms_UNA/exp/e2e_rce_http_handler_check.php",
+    "sha256": "65d1bfc66fd417e77147ed2bd1bcdadea986112fcd3281b021cd3582e095de37",
+    "bytes": 3880,
+    "sources": [
+      "wsl:Debian:/home/duskto/漏挖复审/UNA/e2e_rce_http_handler_check.php"
+    ]
+  },
+  {
+    "project": "unacms_UNA",
+    "category": "exp",
+    "path": "unacms_UNA/exp/e2e_rce_test.php",
+    "sha256": "53f0490ef101cf62ca8e159ffc0f13e1d643177b9823648ae49d8b0dddf21fc6",
+    "bytes": 3240,
+    "sources": [
+      "wsl:Debian:/home/duskto/漏挖复审/UNA/e2e_rce_test.php"
+    ]
+  },
+  {
+    "project": "unacms_UNA",
+    "category": "exp",
+    "path": "unacms_UNA/exp/e2e_rce_verify_local.php",
+    "sha256": "0243db43f03044dbedbb530886414ade0f98277565c7376a633b754f666306b6",
+    "bytes": 7070,
+    "sources": [
+      "wsl:Debian:/home/duskto/漏挖复审/UNA/e2e_rce_verify_local.php"
+    ]
+  },
+  {
+    "project": "unacms_UNA",
+    "category": "exp",
+    "path": "unacms_UNA/exp/e2e_rce_verify_local.py",
+    "sha256": "9b435060bde6041d02330e13a6ca9fad7c1813c206d0377b931a0d9408e435b0",
+    "bytes": 8335,
+    "sources": [
+      "wsl:Debian:/home/duskto/漏挖复审/UNA/e2e_rce_verify_local.py"
+    ]
+  },
+  {
+    "project": "unacms_UNA",
+    "category": "exp",
+    "path": "unacms_UNA/exp/end2end_poc.php",
+    "sha256": "030037a50af2b291b9c760fb525b6d131dec8cab65aa727ab74246dc5f31e430",
+    "bytes": 2721,
+    "sources": [
+      "wsl:Debian:/home/duskto/漏挖复审/UNA/end2end_poc.php"
+    ]
+  },
+  {
+    "project": "unacms_UNA",
+    "category": "exp",
+    "path": "unacms_UNA/exp/poc_una_rce_fullchain.py",
+    "sha256": "1a732392deee495f1b8074dd6a8dd51f740398d99086e1d61cd3977568904e4e",
+    "bytes": 13697,
+    "sources": [
+      "wsl:Debian:/home/duskto/漏挖复审/UNA/poc_una_rce_fullchain.py",
+      "wsl:Debian:/home/duskto/漏挖复审/UNA/UNA_BxFilesModule_RCE_报告.zip::poc_una_rce_fullchain.py"
+    ]
+  },
+  {
+    "project": "unacms_UNA",
+    "category": "exp",
+    "path": "unacms_UNA/exp/poc_verify.php",
+    "sha256": "ba6c30fd0a660cd3806e5cc213203a400c80ad0326af51f704cd2273ec964c7d",
+    "bytes": 3532,
+    "sources": [
+      "wsl:Debian:/home/duskto/漏挖复审/UNA/poc_verify.php"
+    ]
+  },
+  {
+    "project": "unacms_UNA",
+    "category": "exp",
+    "path": "unacms_UNA/exp/rce_demo.php",
+    "sha256": "fd236445b6721a88f3f38d36f103790447fc73ad8d0702b1aef0d90beb91fd8c",
+    "bytes": 1579,
+    "sources": [
+      "wsl:Debian:/home/duskto/漏挖复审/UNA/rce_demo.php"
+    ]
+  },
+  {
+    "project": "unacms_UNA",
+    "category": "exp",
+    "path": "unacms_UNA/exp/rce_verify.php",
+    "sha256": "2ac8f1b6261b3267d977d086e744efbe2189071ef5bca1076ac56234790b4326",
+    "bytes": 876,
+    "sources": [
+      "wsl:Debian:/home/duskto/漏挖复审/UNA/rce_verify.php"
+    ]
+  },
+  {
+    "project": "unacms_UNA",
+    "category": "reports",
+    "path": "unacms_UNA/reports/UNA_BxFilesModule_RCE_报告.md",
+    "sha256": "27ee9a511df385fbb8de6df0527dd49db3b21d0dfd079f01a40f934616cfadfa",
+    "bytes": 14171,
+    "sources": [
+      "wsl:Debian:/home/duskto/漏挖复审/UNA/UNA_BxFilesModule_RCE_报告.md",
+      "wsl:Debian:/home/duskto/漏挖复审/UNA/UNA_BxFilesModule_RCE_报告.zip::UNA_BxFilesModule_RCE_报告.md"
+    ]
+  },
+  {
+    "project": "unacms_UNA",
+    "category": "exp",
+    "path": "unacms_UNA/exp/una_rce_e2e_py.py",
+    "sha256": "8db08a83af28ff5cc76b82d7e4c1632cd847d34aa6827b1b0a3af3cc57178ab5",
+    "bytes": 8960,
+    "sources": [
+      "wsl:Debian:/home/duskto/漏挖复审/UNA/una_rce_e2e_py.py"
+    ]
+  },
+  {
+    "project": "unacms_UNA",
+    "category": "exp",
+    "path": "unacms_UNA/exp/una_rce_fullchain_py.py",
+    "sha256": "3253a4995940295d00b2b98c59981e4615e5b311a8836cff49b9d8474691e524",
+    "bytes": 4437,
+    "sources": [
+      "wsl:Debian:/home/duskto/漏挖复审/UNA/una_rce_fullchain_py.py"
+    ]
+  },
+  {
+    "project": "unacms_UNA",
+    "category": "exp",
+    "path": "unacms_UNA/exp/una_rce_poc.py",
+    "sha256": "c9440db1af62a1d47c691d155661d8155e1c608f7c1411ded80c74068161f88c",
+    "bytes": 19503,
+    "sources": [
+      "wsl:Debian:/home/duskto/漏挖复审/UNA/una_rce_poc.py",
+      "wsl:Debian:/home/duskto/漏挖复审/UNA/UNA_BxFilesModule_RCE_报告.zip::una_rce_poc.py"
+    ]
+  },
+  {
+    "project": "phpList_phplist3",
+    "category": "reports",
+    "path": "phpList_phplist3/reports/漏洞分析报告_phplist3_RCE.md",
+    "sha256": "41cab52d27e712c362656043e0c4fd5cb61d46e992b39809e4c54a34535157d3",
+    "bytes": 19500,
+    "sources": [
+      "wsl:Debian:/home/duskto/漏挖复审/phplist3/漏洞分析报告_phplist3_RCE.md"
+    ]
+  },
+  {
+    "project": "phpList_phplist3",
+    "category": "exp",
+    "path": "phpList_phplist3/exp/poc_rce.py",
+    "sha256": "a253e25690fe2aa41d78147f3c86e4ae7076a2bae1c9acebe9cd96ea5bf4356d",
+    "bytes": 16952,
+    "sources": [
+      "wsl:Debian:/home/duskto/漏挖复审/phplist3/poc_rce.py"
+    ]
   }
 ]

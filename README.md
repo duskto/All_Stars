@@ -55,7 +55,7 @@ skill 复核结论与部署验证结果分别记录。标记为“已部署验�
 
 ## 已归档项目
 
-本目录归档原工作目录内各项目筛选保留的报告和 EXP 文件。目录统一按“仓库所有者_仓库名”命名，已核对项目内的 README 和原始项目路径记录；仓库所有者不代表漏洞报告作者。
+本目录归档原工作目录内各项目筛选保留的报告和 EXP 文件。目录统一按“仓库所有者_仓库名”命名，已核对项目内的 Git 远程配置、README 或原始项目路径记录；仓库所有者不代表漏洞报告作者。
 
 | 仓库所有者_仓库名 | 报告/复核文件数 | EXP 文件数 |
 | --- | ---: | ---: |
@@ -63,18 +63,21 @@ skill 复核结论与部署验证结果分别记录。标记为“已部署验�
 | [CSAILVision_LabelMeAnnotationTool](CSAILVision_LabelMeAnnotationTool/) | 4 | 1 |
 | [fossasia_fossasia11-drupal](fossasia_fossasia11-drupal/) | 2 | 1 |
 | [zelon88_HRConvert2](zelon88_HRConvert2/) | 3 | 1 |
+| [kubesphere_kubeeye](kubesphere_kubeeye/) | 1 | 1 |
+| [unacms_UNA](unacms_UNA/) | 1 | 12 |
+| [phpList_phplist3](phpList_phplist3/) | 1 | 1 |
 
 ## 归档与溯源说明
 
 - 每个项目下 reports/ 保存报告、复核材料和 EXP 说明；exp/ 保存已有的独立 EXP 文件。
 - 文件按原始字节复制；同项目、同类别、同名且 SHA-256 相同的副本合并，所有来源记入 manifest.json。
-- manifest.json 记录归档路径、原始来源、大小和 SHA-256；压缩包来源以 压缩包路径::内部路径 表示，来源路径相对于原工作目录。
+- manifest.json 记录归档路径、原始来源、大小和 SHA-256；压缩包来源以 压缩包路径::内部路径 表示，Windows 来源路径相对于原工作目录；wsl:Debian:/... 表示 Debian 内的绝对来源路径。
 - 原项目目录和压缩包保持原样；未复制完整项目源码、运行状态文件、缓存或开发过程计划。
 - 历史归档过程未运行或修改 EXP，未验证漏洞；报告中的原始相对路径保留，可能需要结合来源清单查找。
 
 ### 目录名称核对依据
 
-以下路径相对于原工作目录：
+未注明 WSL 的路径相对于原工作目录：
 
 | 归档目录 | 项目内依据 |
 | --- | --- |
@@ -82,3 +85,8 @@ skill 复核结论与部署验证结果分别记录。标记为“已部署验�
 | `CSAILVision_LabelMeAnnotationTool` | `CSAILVision_LabelMeAnnotationTool/102_CSAILVision_LabelMeAnnotationTool/102_CSAILVision_LabelMeAnnotationTool/README.md` 的克隆地址为 `github.com/CSAILVision/LabelMeAnnotationTool.git`。 |
 | `fossasia_fossasia11-drupal` | `fossasia11-drupal/fossasia11_drupal/README.md` 标题为 `fossasia11-drupal`；同目录 `context_snapshot.json` 的 `target_dir` 为 `D:\破壳项目\157_fossasia_fossasia11-drupal`，据此确认所有者标识为 `fossasia`。 |
 | `zelon88_HRConvert2` | `zelon88_HRConvert2/112_zelon88_HRConvert2/112_zelon88_HRConvert2/README.md` 的安装文档地址位于 `github.com/zelon88/HRConvert2`。 |
+| `kubesphere_kubeeye` | WSL Debian `~/漏挖复审/908-kubeeye` 的 Git origin 为 `https://github.com/kubesphere/kubeeye.git`，README 和 go.mod 一致。 |
+| `unacms_UNA` | WSL Debian `~/漏挖复审/UNA` 的 Git origin 为 `https://github.com/unacms/UNA.git`；目录大小写按该地址保留。 |
+| `phpList_phplist3` | WSL Debian `~/漏挖复审/phplist3` 的 Git origin 为 `https://github.com/phpList/phplist3.git`，README 引用一致。 |
+
+WSL 复审资料来自 Debian 的 `~/漏挖复审`，原项目文件保持原样。UNA 报告包内的 `poc_una_rce_fullchain.py`、`una_rce_poc.py` 与目录中的同名副本按哈希去重；其余已有 PoC、RCE 演示和本地验证脚本一并保留在 `unacms_UNA/exp/`，未验证可运行性。调试、安装、会话生成脚本和运行数据未纳入归档。
