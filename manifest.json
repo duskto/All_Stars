@@ -1,0 +1,201 @@
+[
+  {
+    "project": "aFarkas_webshim",
+    "category": "reports",
+    "path": "aFarkas_webshim/reports/webshim_前认证RCE_SSRF_动态验证分析报告.md",
+    "sha256": "349703afc61127a66e72875f6c1a434dcbdb85c057ed644de3974d2a35f9a728",
+    "bytes": 11084,
+    "sources": [
+      "aFarkas_webshim/webshim_前认证RCE_SSRF_动态验证分析报告.md"
+    ]
+  },
+  {
+    "project": "aFarkas_webshim",
+    "category": "exp",
+    "path": "aFarkas_webshim/exp/exploit_upload_rce.py",
+    "sha256": "62a2d0ce03f0315b3455d1b96cb76a88138118def2cfedb169dc8b4b0c256e44",
+    "bytes": 1009,
+    "sources": [
+      "aFarkas_webshim/webshim.zip::171_aFarkas_webshim/reports/exploit_upload_rce.py"
+    ]
+  },
+  {
+    "project": "aFarkas_webshim",
+    "category": "exp",
+    "path": "aFarkas_webshim/exp/exp_upload_html_rce.py",
+    "sha256": "255ca222a77e9e497f24986ea7988f7c73b51f194ac868c54674d46c5b961d1d",
+    "bytes": 2616,
+    "sources": [
+      "aFarkas_webshim/webshim.zip::171_aFarkas_webshim/reports/exp_upload_html_rce.py"
+    ]
+  },
+  {
+    "project": "aFarkas_webshim",
+    "category": "exp",
+    "path": "aFarkas_webshim/exp/exp_upload_json_rce.py",
+    "sha256": "c260baf9274cd5fed39e355c4b2f8bba3af24e2ff6ec3ac587f7bf2964b68080",
+    "bytes": 2730,
+    "sources": [
+      "aFarkas_webshim/webshim.zip::171_aFarkas_webshim/reports/exp_upload_json_rce.py"
+    ]
+  },
+  {
+    "project": "aFarkas_webshim",
+    "category": "reports",
+    "path": "aFarkas_webshim/reports/FINAL.md",
+    "sha256": "7cbfc629b929f48ae891819d264147af24e2f04e136337cc8aa44445a3cdca52",
+    "bytes": 7982,
+    "sources": [
+      "aFarkas_webshim/webshim.zip::171_aFarkas_webshim/reports/FINAL.md"
+    ]
+  },
+  {
+    "project": "CSAILVision_LabelMeAnnotationTool",
+    "category": "reports",
+    "path": "CSAILVision_LabelMeAnnotationTool/reports/exp.md",
+    "sha256": "20b047124360c5c12e4cdcfb8c87498b4de93e0c51b5b92a829c25d21f77a42f",
+    "bytes": 847,
+    "sources": [
+      "CSAILVision_LabelMeAnnotationTool/reports/exp.md",
+      "CSAILVision_LabelMeAnnotationTool/102_CSAILVision_LabelMeAnnotationTool/102_CSAILVision_LabelMeAnnotationTool/reports/exp.md",
+      "CSAILVision_LabelMeAnnotationTool/102_CSAILVision_LabelMeAnnotationTool.zip::102_CSAILVision_LabelMeAnnotationTool/reports/exp.md"
+    ]
+  },
+  {
+    "project": "CSAILVision_LabelMeAnnotationTool",
+    "category": "exp",
+    "path": "CSAILVision_LabelMeAnnotationTool/exp/exp.py",
+    "sha256": "0a808f5ffecfe0264c06b82c917ceb9f1f0329f1861c8701c31f65e959b4ead2",
+    "bytes": 314,
+    "sources": [
+      "CSAILVision_LabelMeAnnotationTool/reports/exp.py",
+      "CSAILVision_LabelMeAnnotationTool/102_CSAILVision_LabelMeAnnotationTool/102_CSAILVision_LabelMeAnnotationTool/reports/exp.py",
+      "CSAILVision_LabelMeAnnotationTool/102_CSAILVision_LabelMeAnnotationTool.zip::102_CSAILVision_LabelMeAnnotationTool/reports/exp.py"
+    ]
+  },
+  {
+    "project": "CSAILVision_LabelMeAnnotationTool",
+    "category": "reports",
+    "path": "CSAILVision_LabelMeAnnotationTool/reports/匿名报告前认证RCE复核报告.md",
+    "sha256": "7b81bef6457d01db467b091a14ac484634d6e97fddb1b2bfafc3145b01d736a1",
+    "bytes": 8091,
+    "sources": [
+      "CSAILVision_LabelMeAnnotationTool/reports/匿名报告前认证RCE复核报告.md",
+      "CSAILVision_LabelMeAnnotationTool/102_CSAILVision_LabelMeAnnotationTool/102_CSAILVision_LabelMeAnnotationTool/reports/匿名报告前认证RCE复核报告.md",
+      "CSAILVision_LabelMeAnnotationTool/102_CSAILVision_LabelMeAnnotationTool.zip::102_CSAILVision_LabelMeAnnotationTool/reports/匿名报告前认证RCE复核报告.md"
+    ]
+  },
+  {
+    "project": "CSAILVision_LabelMeAnnotationTool",
+    "category": "reports",
+    "path": "CSAILVision_LabelMeAnnotationTool/reports/preauth_rce_漏洞分析报告.md",
+    "sha256": "4443a1b4804bef5463a37ee34b66f0e19ce8ed0a06633c58e0f4f97796c57a2d",
+    "bytes": 6559,
+    "sources": [
+      "CSAILVision_LabelMeAnnotationTool/reports/preauth_rce_漏洞分析报告.md",
+      "CSAILVision_LabelMeAnnotationTool/102_CSAILVision_LabelMeAnnotationTool/102_CSAILVision_LabelMeAnnotationTool/reports/preauth_rce_漏洞分析报告.md",
+      "CSAILVision_LabelMeAnnotationTool/102_CSAILVision_LabelMeAnnotationTool.zip::102_CSAILVision_LabelMeAnnotationTool/reports/preauth_rce_漏洞分析报告.md",
+      "CSAILVision_LabelMeAnnotationTool/102_CSAILVision_LabelMeAnnotationTool/102_CSAILVision_LabelMeAnnotationTool/reports.zip::reports/preauth_rce_漏洞分析报告.md"
+    ]
+  },
+  {
+    "project": "CSAILVision_LabelMeAnnotationTool",
+    "category": "reports",
+    "path": "CSAILVision_LabelMeAnnotationTool/reports/saveimage-preauth-rce-report.md",
+    "sha256": "4903cded152d71d933d4b31525e7c72299161867005cff6748efa4f3749efb62",
+    "bytes": 11451,
+    "sources": [
+      "CSAILVision_LabelMeAnnotationTool/saveimage-preauth-rce-report.md"
+    ]
+  },
+  {
+    "project": "fossasia11_drupal",
+    "category": "reports",
+    "path": "fossasia11_drupal/reports/漏洞分析报告.md",
+    "sha256": "221b4fb26ad2e70864c721d4f8b65a8517df935fae582e8ec6f2ad3cba399470",
+    "bytes": 9151,
+    "sources": [
+      "fossasia11-drupal/漏洞分析报告.md",
+      "fossasia11-drupal/exp/漏洞分析报告.md",
+      "fossasia11-drupal/exp.zip::漏洞分析报告.md"
+    ]
+  },
+  {
+    "project": "fossasia11_drupal",
+    "category": "reports",
+    "path": "fossasia11_drupal/reports/项目漏洞与利用总结.md",
+    "sha256": "792a98319afba8e38597b9ba7df0ed4a710b78cdbcbca81016a3bc63bacb6d19",
+    "bytes": 5938,
+    "sources": [
+      "fossasia11-drupal/项目漏洞与利用总结.md",
+      "fossasia11-drupal/exp/项目漏洞与利用总结.md",
+      "fossasia11-drupal/exp.zip::项目漏洞与利用总结.md"
+    ]
+  },
+  {
+    "project": "fossasia11_drupal",
+    "category": "exp",
+    "path": "fossasia11_drupal/exp/exploit_authbypass_block_rce.py",
+    "sha256": "ccc1cf6827d2b7c966feda7d96cd31ead7e35722141738de154d4b0902190a7f",
+    "bytes": 21532,
+    "sources": [
+      "fossasia11-drupal/exploit_authbypass_block_rce.py",
+      "fossasia11-drupal/exp/exploit_authbypass_block_rce.py",
+      "fossasia11-drupal/exp.zip::exploit_authbypass_block_rce.py"
+    ]
+  },
+  {
+    "project": "zelon88_HRConvert2",
+    "category": "reports",
+    "path": "zelon88_HRConvert2/reports/wp.md",
+    "sha256": "dd0a8d5cb1725b6c77d3f2c8b25df422ac80cc061424b8dc618c7b4681e5a501",
+    "bytes": 173,
+    "sources": [
+      "zelon88_HRConvert2/reports/wp.md",
+      "zelon88_HRConvert2/112_zelon88_HRConvert2/112_zelon88_HRConvert2/reports/wp.md",
+      "zelon88_HRConvert2/112_zelon88_HRConvert2.zip::112_zelon88_HRConvert2/reports/wp.md",
+      "zelon88_HRConvert2/112_zelon88_HRConvert2/112_zelon88_HRConvert2/HRconvert2.zip::reports/wp.md"
+    ]
+  },
+  {
+    "project": "zelon88_HRConvert2",
+    "category": "exp",
+    "path": "zelon88_HRConvert2/exp/exp.py",
+    "sha256": "3bd94e9983a1e25563cab519a008c68ac3554df2b649e10404e2b048b6f73559",
+    "bytes": 1715,
+    "sources": [
+      "zelon88_HRConvert2/reports/exp.py",
+      "zelon88_HRConvert2/112_zelon88_HRConvert2/112_zelon88_HRConvert2/exp.py",
+      "zelon88_HRConvert2/112_zelon88_HRConvert2/112_zelon88_HRConvert2/reports/exp.py",
+      "zelon88_HRConvert2/112_zelon88_HRConvert2.zip::112_zelon88_HRConvert2/exp.py",
+      "zelon88_HRConvert2/112_zelon88_HRConvert2.zip::112_zelon88_HRConvert2/reports/exp.py",
+      "zelon88_HRConvert2/112_zelon88_HRConvert2/112_zelon88_HRConvert2/HRconvert2.zip::reports/exp.py"
+    ]
+  },
+  {
+    "project": "zelon88_HRConvert2",
+    "category": "reports",
+    "path": "zelon88_HRConvert2/reports/维护者复核_匿名报告校验.md",
+    "sha256": "7c4b85519c83cd54c5ab8e8a7e5df701edf7a3925ad2b5cd009ecfa7c6685425",
+    "bytes": 12298,
+    "sources": [
+      "zelon88_HRConvert2/reports/维护者复核_匿名报告校验.md",
+      "zelon88_HRConvert2/112_zelon88_HRConvert2/112_zelon88_HRConvert2/reports/维护者复核_匿名报告校验.md",
+      "zelon88_HRConvert2/112_zelon88_HRConvert2.zip::112_zelon88_HRConvert2/reports/维护者复核_匿名报告校验.md",
+      "zelon88_HRConvert2/112_zelon88_HRConvert2/112_zelon88_HRConvert2/HRconvert2.zip::reports/维护者复核_匿名报告校验.md"
+    ]
+  },
+  {
+    "project": "zelon88_HRConvert2",
+    "category": "reports",
+    "path": "zelon88_HRConvert2/reports/漏洞分析报告_前认证RCE_认证绕过后RCE.md",
+    "sha256": "9755c8850ce349301ecf367f1a70b609b604ece02c7ba3267bec351fafb3154f",
+    "bytes": 11361,
+    "sources": [
+      "zelon88_HRConvert2/reports/漏洞分析报告_前认证RCE_认证绕过后RCE.md",
+      "zelon88_HRConvert2/112_zelon88_HRConvert2/112_zelon88_HRConvert2/reports/漏洞分析报告_前认证RCE_认证绕过后RCE.md",
+      "zelon88_HRConvert2/112_zelon88_HRConvert2.zip::112_zelon88_HRConvert2/reports/漏洞分析报告_前认证RCE_认证绕过后RCE.md",
+      "zelon88_HRConvert2/112_zelon88_HRConvert2/112_zelon88_HRConvert2/HRconvert2.zip::reports/漏洞分析报告_前认证RCE_认证绕过后RCE.md"
+    ]
+  }
+]
