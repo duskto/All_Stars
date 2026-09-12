@@ -64,7 +64,7 @@ skill 复核结论与部署验证结果分别记录。标记为“已部署验�
 | [fossasia_fossasia11-drupal](fossasia_fossasia11-drupal/) | 2 | 1 |
 | [zelon88_HRConvert2](zelon88_HRConvert2/) | 3 | 1 |
 | [kubesphere_kubeeye](kubesphere_kubeeye/) | 1 | 1 |
-| [unacms_UNA](unacms_UNA/) | 1 | 12 |
+| [unacms_UNA](unacms_UNA/) | 1 | 2 |
 | [phpList_phplist3](phpList_phplist3/) | 1 | 1 |
 
 ## 归档与溯源说明
@@ -89,4 +89,4 @@ skill 复核结论与部署验证结果分别记录。标记为“已部署验�
 | `unacms_UNA` | WSL Debian `~/漏挖复审/UNA` 的 Git origin 为 `https://github.com/unacms/UNA.git`；目录大小写按该地址保留。 |
 | `phpList_phplist3` | WSL Debian `~/漏挖复审/phplist3` 的 Git origin 为 `https://github.com/phpList/phplist3.git`，README 引用一致。 |
 
-WSL 复审资料来自 Debian 的 `~/漏挖复审`，原项目文件保持原样。UNA 报告包内的 `poc_una_rce_fullchain.py`、`una_rce_poc.py` 与目录中的同名副本按哈希去重；其余已有 PoC、RCE 演示和本地验证脚本一并保留在 `unacms_UNA/exp/`，未验证可运行性。调试、安装、会话生成脚本和运行数据未纳入归档。
+WSL 复审资料来自 Debian 的 `~/漏挖复审`，原项目文件保持原样。UNA 报告包内的 `poc_una_rce_fullchain.py`、`una_rce_poc.py` 与目录中的同名副本按哈希去重；`unacms_UNA/exp/` 仅保留上述两个文件，未验证可运行性。调试、安装、会话生成脚本和运行数据未纳入归档。
