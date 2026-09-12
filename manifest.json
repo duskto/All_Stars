@@ -109,9 +109,9 @@
     ]
   },
   {
-    "project": "fossasia11_drupal",
+    "project": "fossasia_fossasia11-drupal",
     "category": "reports",
-    "path": "fossasia11_drupal/reports/漏洞分析报告.md",
+    "path": "fossasia_fossasia11-drupal/reports/漏洞分析报告.md",
     "sha256": "221b4fb26ad2e70864c721d4f8b65a8517df935fae582e8ec6f2ad3cba399470",
     "bytes": 9151,
     "sources": [
@@ -121,9 +121,9 @@
     ]
   },
   {
-    "project": "fossasia11_drupal",
+    "project": "fossasia_fossasia11-drupal",
     "category": "reports",
-    "path": "fossasia11_drupal/reports/项目漏洞与利用总结.md",
+    "path": "fossasia_fossasia11-drupal/reports/项目漏洞与利用总结.md",
     "sha256": "792a98319afba8e38597b9ba7df0ed4a710b78cdbcbca81016a3bc63bacb6d19",
     "bytes": 5938,
     "sources": [
@@ -133,9 +133,9 @@
     ]
   },
   {
-    "project": "fossasia11_drupal",
+    "project": "fossasia_fossasia11-drupal",
     "category": "exp",
-    "path": "fossasia11_drupal/exp/exploit_authbypass_block_rce.py",
+    "path": "fossasia_fossasia11-drupal/exp/exploit_authbypass_block_rce.py",
     "sha256": "ccc1cf6827d2b7c966feda7d96cd31ead7e35722141738de154d4b0902190a7f",
     "bytes": 21532,
     "sources": [
