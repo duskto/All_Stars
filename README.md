@@ -42,14 +42,14 @@ All_Stars 是面向 **Web 相关开源项目**的漏洞研究与验证仓库，�
 
 ## 已归档项目
 
-归档目录采用 `仓库所有者_仓库名` 命名，对应的原 GitHub 项目如下。当前共归档 **7 个项目、14 份报告或复核文件、10 个独立 PoC / EXP 文件**。文件数量用于说明归档规模，不代表独立漏洞数量。
+归档目录采用 `仓库所有者_仓库名` 命名，对应的原 GitHub 项目如下。当前共归档 **7 个项目、12 份报告或复核文件、10 个独立 PoC / EXP 文件**。文件数量用于说明归档规模，不代表独立漏洞数量。
 
 | 归档目录 | 原 GitHub 项目 | 报告 / 复核文件数 | PoC / EXP 文件数 |
 | --- | --- | ---: | ---: |
 | [aFarkas_webshim](aFarkas_webshim/) | [aFarkas/webshim](https://github.com/aFarkas/webshim) | 2 | 3 |
 | [CSAILVision_LabelMeAnnotationTool](CSAILVision_LabelMeAnnotationTool/) | [CSAILVision/LabelMeAnnotationTool](https://github.com/CSAILVision/LabelMeAnnotationTool) | 4 | 1 |
 | [fossasia_fossasia11-drupal](fossasia_fossasia11-drupal/) | [fossasia/fossasia11-legacy](https://github.com/fossasia/fossasia11-legacy) | 2 | 1 |
-| [zelon88_HRConvert2](zelon88_HRConvert2/) | [zelon88/HRConvert2](https://github.com/zelon88/HRConvert2) | 3 | 1 |
+| [zelon88_HRConvert2](zelon88_HRConvert2/) | [zelon88/HRConvert2](https://github.com/zelon88/HRConvert2) | 1 | 1 |
 | [kubesphere_kubeeye](kubesphere_kubeeye/) | [kubesphere/kubeeye](https://github.com/kubesphere/kubeeye) | 1 | 1 |
 | [unacms_UNA](unacms_UNA/) | [unacms/UNA](https://github.com/unacms/UNA) | 1 | 2 |
 | [phpList_phplist3](phpList_phplist3/) | [phpList/phplist3](https://github.com/phpList/phplist3) | 1 | 1 |
