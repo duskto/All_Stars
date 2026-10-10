@@ -64,25 +64,11 @@
   {
     "project": "fossasia_fossasia11-drupal",
     "category": "reports",
-    "path": "fossasia_fossasia11-drupal/reports/漏洞分析报告.md",
-    "sha256": "221b4fb26ad2e70864c721d4f8b65a8517df935fae582e8ec6f2ad3cba399470",
-    "bytes": 9151,
+    "path": "fossasia_fossasia11-drupal/reports/fossasia11-drupal_认证绕过后RCE_分析与复现报告.md",
+    "sha256": "4a66ecf428d1d1c2095cf5f2feca5686e87dacd2e959caeab3f72c4dc526f3e5",
+    "bytes": 17126,
     "sources": [
-      "fossasia11-drupal/漏洞分析报告.md",
-      "fossasia11-drupal/exp/漏洞分析报告.md",
-      "fossasia11-drupal/exp.zip::漏洞分析报告.md"
-    ]
-  },
-  {
-    "project": "fossasia_fossasia11-drupal",
-    "category": "reports",
-    "path": "fossasia_fossasia11-drupal/reports/项目漏洞与利用总结.md",
-    "sha256": "792a98319afba8e38597b9ba7df0ed4a710b78cdbcbca81016a3bc63bacb6d19",
-    "bytes": 5938,
-    "sources": [
-      "fossasia11-drupal/项目漏洞与利用总结.md",
-      "fossasia11-drupal/exp/项目漏洞与利用总结.md",
-      "fossasia11-drupal/exp.zip::项目漏洞与利用总结.md"
+      "fossasia_fossasia11-drupal/reports/fossasia11-drupal_认证绕过后RCE_分析与复现报告.md"
     ]
   },
   {
