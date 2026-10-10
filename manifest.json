@@ -2,11 +2,11 @@
   {
     "project": "aFarkas_webshim",
     "category": "reports",
-    "path": "aFarkas_webshim/reports/webshim_前认证RCE_SSRF_动态验证分析报告.md",
-    "sha256": "349703afc61127a66e72875f6c1a434dcbdb85c057ed644de3974d2a35f9a728",
-    "bytes": 11084,
+    "path": "aFarkas_webshim/reports/webshim_前认证RCE_SSRF_复现报告.md",
+    "sha256": "26490b40ef7f8ed09e860d9429bf11a43bf8fa68cc7c14ba669c6009b6a02940",
+    "bytes": 10945,
     "sources": [
-      "aFarkas_webshim/webshim_前认证RCE_SSRF_动态验证分析报告.md"
+      "aFarkas_webshim/reports/webshim_前认证RCE_SSRF_复现报告.md"
     ]
   },
   {
@@ -40,25 +40,13 @@
     ]
   },
   {
-    "project": "aFarkas_webshim",
-    "category": "reports",
-    "path": "aFarkas_webshim/reports/FINAL.md",
-    "sha256": "7cbfc629b929f48ae891819d264147af24e2f04e136337cc8aa44445a3cdca52",
-    "bytes": 7982,
-    "sources": [
-      "aFarkas_webshim/webshim.zip::171_aFarkas_webshim/reports/FINAL.md"
-    ]
-  },
-  {
     "project": "CSAILVision_LabelMeAnnotationTool",
     "category": "reports",
-    "path": "CSAILVision_LabelMeAnnotationTool/reports/exp.md",
-    "sha256": "20b047124360c5c12e4cdcfb8c87498b4de93e0c51b5b92a829c25d21f77a42f",
-    "bytes": 847,
+    "path": "CSAILVision_LabelMeAnnotationTool/reports/LabelMeAnnotationTool_前认证RCE_分析与复现报告.md",
+    "sha256": "733beb4ca009031181e3730d7750c4e0ae99bcd2240d6d5ad4f47118ddbab097",
+    "bytes": 10293,
     "sources": [
-      "CSAILVision_LabelMeAnnotationTool/reports/exp.md",
-      "CSAILVision_LabelMeAnnotationTool/102_CSAILVision_LabelMeAnnotationTool/102_CSAILVision_LabelMeAnnotationTool/reports/exp.md",
-      "CSAILVision_LabelMeAnnotationTool/102_CSAILVision_LabelMeAnnotationTool.zip::102_CSAILVision_LabelMeAnnotationTool/reports/exp.md"
+      "CSAILVision_LabelMeAnnotationTool/reports/LabelMeAnnotationTool_前认证RCE_分析与复现报告.md"
     ]
   },
   {
@@ -71,41 +59,6 @@
       "CSAILVision_LabelMeAnnotationTool/reports/exp.py",
       "CSAILVision_LabelMeAnnotationTool/102_CSAILVision_LabelMeAnnotationTool/102_CSAILVision_LabelMeAnnotationTool/reports/exp.py",
       "CSAILVision_LabelMeAnnotationTool/102_CSAILVision_LabelMeAnnotationTool.zip::102_CSAILVision_LabelMeAnnotationTool/reports/exp.py"
-    ]
-  },
-  {
-    "project": "CSAILVision_LabelMeAnnotationTool",
-    "category": "reports",
-    "path": "CSAILVision_LabelMeAnnotationTool/reports/匿名报告前认证RCE复核报告.md",
-    "sha256": "7b81bef6457d01db467b091a14ac484634d6e97fddb1b2bfafc3145b01d736a1",
-    "bytes": 8091,
-    "sources": [
-      "CSAILVision_LabelMeAnnotationTool/reports/匿名报告前认证RCE复核报告.md",
-      "CSAILVision_LabelMeAnnotationTool/102_CSAILVision_LabelMeAnnotationTool/102_CSAILVision_LabelMeAnnotationTool/reports/匿名报告前认证RCE复核报告.md",
-      "CSAILVision_LabelMeAnnotationTool/102_CSAILVision_LabelMeAnnotationTool.zip::102_CSAILVision_LabelMeAnnotationTool/reports/匿名报告前认证RCE复核报告.md"
-    ]
-  },
-  {
-    "project": "CSAILVision_LabelMeAnnotationTool",
-    "category": "reports",
-    "path": "CSAILVision_LabelMeAnnotationTool/reports/preauth_rce_漏洞分析报告.md",
-    "sha256": "4443a1b4804bef5463a37ee34b66f0e19ce8ed0a06633c58e0f4f97796c57a2d",
-    "bytes": 6559,
-    "sources": [
-      "CSAILVision_LabelMeAnnotationTool/reports/preauth_rce_漏洞分析报告.md",
-      "CSAILVision_LabelMeAnnotationTool/102_CSAILVision_LabelMeAnnotationTool/102_CSAILVision_LabelMeAnnotationTool/reports/preauth_rce_漏洞分析报告.md",
-      "CSAILVision_LabelMeAnnotationTool/102_CSAILVision_LabelMeAnnotationTool.zip::102_CSAILVision_LabelMeAnnotationTool/reports/preauth_rce_漏洞分析报告.md",
-      "CSAILVision_LabelMeAnnotationTool/102_CSAILVision_LabelMeAnnotationTool/102_CSAILVision_LabelMeAnnotationTool/reports.zip::reports/preauth_rce_漏洞分析报告.md"
-    ]
-  },
-  {
-    "project": "CSAILVision_LabelMeAnnotationTool",
-    "category": "reports",
-    "path": "CSAILVision_LabelMeAnnotationTool/reports/saveimage-preauth-rce-report.md",
-    "sha256": "4903cded152d71d933d4b31525e7c72299161867005cff6748efa4f3749efb62",
-    "bytes": 11451,
-    "sources": [
-      "CSAILVision_LabelMeAnnotationTool/saveimage-preauth-rce-report.md"
     ]
   },
   {
@@ -235,6 +188,26 @@
     "bytes": 16952,
     "sources": [
       "wsl:Debian:/home/duskto/漏挖复审/phplist3/poc_rce.py"
+    ]
+  },
+  {
+    "project": "SeleniumHQ_selenium",
+    "category": "reports",
+    "path": "SeleniumHQ_selenium/reports/Selenium-Grid-Firefox-Profile-RCE-Report.md",
+    "sha256": "efef5baac5b92b25c62d9a1229ac4c3a9372a645116caadd9da8cc466fecf0e3",
+    "bytes": 12116,
+    "sources": [
+      "SeleniumHQ_selenium/reports/Selenium-Grid-Firefox-Profile-RCE-Report.md"
+    ]
+  },
+  {
+    "project": "SeleniumHQ_selenium",
+    "category": "exp",
+    "path": "SeleniumHQ_selenium/exp/poc_selenium_firefox_rce.py",
+    "sha256": "925801f227320862ed7873270209cd8d699df5d6a3439457e6e23149e3ccbea2",
+    "bytes": 15710,
+    "sources": [
+      "SeleniumHQ_selenium/exp/poc_selenium_firefox_rce.py"
     ]
   }
 ]
