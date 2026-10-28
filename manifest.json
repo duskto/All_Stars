@@ -195,5 +195,25 @@
     "sources": [
       "SeleniumHQ_selenium/exp/poc_selenium_firefox_rce.py"
     ]
+  },
+  {
+    "project": "orientechnologies_orientdb",
+    "category": "reports",
+    "path": "orientechnologies_orientdb/reports/OrientDB_前认证RCE_漏洞分析报告.md",
+    "sha256": "85ca7ba8138ba0af642984cd611fbf40bb11d883d695c15ece4eba74ef939a90",
+    "bytes": 20401,
+    "sources": [
+      "orientdb_rce.zip::漏洞分析报告.md"
+    ]
+  },
+  {
+    "project": "orientechnologies_orientdb",
+    "category": "exp",
+    "path": "orientechnologies_orientdb/exp/poc_orientdb_rce.py",
+    "sha256": "641b6e1b7486d2f7a94accb1abb7b69a613b875a4fa2e7d819300d0f78d0cb41",
+    "bytes": 12832,
+    "sources": [
+      "orientdb_rce.zip::poc_orientdb_rce.py"
+    ]
   }
 ]
